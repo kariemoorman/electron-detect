@@ -24,10 +24,16 @@ chmod +x electron_detect.sh
 -> % ./electron_detect.sh
 
 ==============================================
-Latest available Electron version: v38.4.0
+Latest available Electron version: v41.2.1
 ==============================================
 
-✅ Electron App: /Applications/Arduino IDE.app (App: v2.3.6, Electron: v30.1.2)
+==============================================
+App: /Applications/Slack.app
+App Version: v4.49.81
+Electron: v41.1.0
+Chromium: 146.0.7680.166
+Node.js: 24.14.0
+==============================================
 
 ```
          
